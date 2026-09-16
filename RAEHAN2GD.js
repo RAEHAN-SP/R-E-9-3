@@ -1461,7 +1461,7 @@ break;
 			
 			case 'kenalanajayoooks': {
 			await sendLoading(m.chat, m);
-			await RAEHAN2GD.sendMessage(m.chat, { text: 'https://ig-hanz-932.github.io/JAWAB_PERTANYAAN_INI_DONG', mentions: [m.sender]}, { quoted: fkontak })}
+			await RAEHAN2GD.sendMessage(m.chat, { text: 'https://ig-hanz-932.github.io/BOLEH_KENALAN____SCRIPT-HANZ', mentions: [m.sender]}, { quoted: fkontak })}
 			break
 			
 		case 'sosialmedsos1': { 
@@ -1527,6 +1527,7 @@ const hanzzz =
 ┣❏${setv} ${prefix}list03
 ┗━━━━━━━━━━━━━⊱
 
+
 ━━━[  𝘑𝘈𝘙𝘐𝘕𝘎𝘈𝘕  ]━━━━
 ┏━━━━━━━━━━━━━⊱
 ┣❏${setv} ${prefix}ping
@@ -1554,6 +1555,7 @@ const hanzzz =
 ┏━━━━━━━━━━━━━⊱
 ┣❏${setv} ${prefix}jam
 ┗━━━━━━━━━━━━━⊱
+
 
 ━━━[  UPLOAD  ]━━━
 ┏━━━━━━━━━━━━━⊱
